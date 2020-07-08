@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Alan Hickmott <role> DevOps Engineer <twitter>
+    <name> Alan Hickmott <role> DevOps Engineer <twitter> Twit
 
 # THANKS
 
@@ -12,4 +12,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+
     jQuery, machine learning, AWS, G-Cloud
+
