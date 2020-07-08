@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Alan Hickmott <role> DevOps Engineer <twitter>
+    <name> Alan Hickmott <role> DevOps Engineer <twitter> Twit
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	C#, JAVA, Docker
